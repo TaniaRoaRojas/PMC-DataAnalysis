@@ -7,3 +7,7 @@ View(data)
 data = data[-1,]
 View(data)
 
+## Create box plot per group (doctors and lawers)
+
+
+## Create box plot 
