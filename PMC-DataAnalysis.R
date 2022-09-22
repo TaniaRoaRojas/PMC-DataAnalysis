@@ -10,4 +10,8 @@ View(data)
 ## Create box plot per group (doctors and lawers)
 
 
-## Create box plot 
+## Create box plot by sequence 
+
+## To develope K-W I need to differenciate the levels of my categorical
+## variables,
+## which column correspond to the group (lawyer / Doctor)
